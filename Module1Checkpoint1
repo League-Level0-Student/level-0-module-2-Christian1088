@@ -1,0 +1,28 @@
+Variables Checkpoint
+
+
+1. Fill in the blanks
+
+
+___String_________________ favoriteHobby = "programming";
+___________int_________ numberOfToes = 10;
+___________int_________ degreesInARightAngle = 90;
+_____int_______________ myAge = ________12____________;
+String ______code______________ = "Java";
+double _______decimal_____________ = 3.14159;
+
+
+
+2. Initialize these variables...
+    String whatIWantToBeWhenIGrowUp= "job";
+    int facebookFriends= 15;
+    String myBirthday= "When I was born";
+    int sidesInATriangle= 3;
+    
+    
+    
+3. Declare and initialize variables for...
+    ­ String  presents="what you got for your birthday";
+    ­ String twoHoursago ="the last meal you ate";
+    ­ String TenThirty= "what time you go to bed";
+    ­ String Three= "how many Robot programs you have written";
