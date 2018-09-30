@@ -34,7 +34,9 @@ if(newRandom==1) {
 if(newRandom==2) {
 	JOptionPane.showMessageDialog(null, "Maybe you should ask google");
 }
-if()
+if(newRandom==3) {
+	JOptionPane.showMessageDialog(null, "Maybe");
+}
 	// -- tell the user "Yes"
 
 	// 6. If the random number is 1
