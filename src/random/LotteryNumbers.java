@@ -8,14 +8,14 @@ public class LotteryNumbers {
 	public static void main(String[] args) {
 		Random Randy= new Random();
 		int r;
-		int abc=Randy.nextInt(9);
-		int def=Randy.nextInt(9);
-		int ghi=Randy.nextInt(9);
-		int jkl=Randy.nextInt(9);
-		int mno=Randy.nextInt(9);
+		int abc=Randy.nextInt(50);
+		int def=Randy.nextInt(50);
+		int ghi=Randy.nextInt(50);
+		int jkl=Randy.nextInt(50);
+		int mno=Randy.nextInt(50);
 		
-		
-		JOptionPane.showMessageDialog(null, abc"+"def"+"ghi"+"jkl"+"mno");
+		JOptionPane.showMessageDialog(null," " +abc+ " " +def+ " " +ghi+ " " +jkl+ " " +mno);
+ 
 
 }
 }
